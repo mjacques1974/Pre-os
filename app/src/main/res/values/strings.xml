@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PestoPreço</string>
+    <string name="title_pesto_table">Molhos Pesto no Brasil</string>
+    <string name="btn_update_prices">Atualizar Preços</string>
+    <string name="updating_prices">Pesquisando e atualizando preços…</string>
+    <string name="price_updated_success">Preços atualizados com sucesso!</string>
+</resources>

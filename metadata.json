@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix PestoPreço",
+  "description": "Tabela comparativa de molhos pesto nos supermercados brasileiros com atualização automática de preços.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
